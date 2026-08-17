@@ -523,5 +523,14 @@
   "https://raw.githubusercontent.com/yflmq001/dsh-cost-tracker/main/assets/screenshots/screenshot-main.png",
   "https://raw.githubusercontent.com/yflmq001/dsh-cost-tracker/main/assets/screenshots/screenshot-cost-panel.png",
   "https://raw.githubusercontent.com/yflmq001/dsh-cost-tracker/main/assets/screenshots/screenshot-config.png"
+ ],
+ "https://github.com/a903067276-rgb/dsh-file-mentions": [
+  "https://raw.githubusercontent.com/a903067276-rgb/dsh-file-mentions/main/assets/screenshot.png"
+ ],
+ "https://github.com/a903067276-rgb/dsh-hud": [
+  "https://raw.githubusercontent.com/a903067276-rgb/dsh-hud/main/assets/hud-panel.png"
+ ],
+ "https://github.com/a903067276-rgb/dsh-plan-switch": [
+  "https://raw.githubusercontent.com/a903067276-rgb/dsh-plan-switch/main/assets/plan-button.png"
  ]
 }
