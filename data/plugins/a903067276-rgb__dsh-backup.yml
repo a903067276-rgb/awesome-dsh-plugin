@@ -1,0 +1,6 @@
+url: https://github.com/a903067276-rgb/dsh-backup
+name: a903067276-rgb/dsh-backup
+category: workflow
+description:
+  en: 'Automated backups of DSH sessions, profile config and custom directories — scheduled or manual, packed as standard zip archives with automatic rotation (pure Node, no system zip required).'
+  zh: 'DSH 数据自动备份：会话记录、配置与自定义目录，定时或手动打包为标准 zip，自动轮转保留最近 N 份（纯 Node 实现，不依赖系统 zip）。'
